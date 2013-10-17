@@ -1,20 +1,22 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+### Atli Þorvaldsson
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Ubuntu var nú þegar uppsett á vélina hjá og er rúmur mánuður síðan ég skipti alfarið yfir í Ubuntu.
+
+![Screenshot](http://s23.postimg.org/doqpq853f/Screen.png)
+
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Uppsetningin gekk vel. Er aðeins kominn inn í það að setja upp forrit í gegnum terminal og bæta við repository
+og finnst þetta algjör snilld.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Með þeim leiðbeiningum sem gefnar voru í verkefnalýsingu gekk þetta mjög vel. Líkaði ágætlega við NIM :)
 
 ## 4. Uppsettur hugbúnaður
 
