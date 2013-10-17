@@ -20,8 +20,17 @@ Með þeim leiðbeiningum sem gefnar voru í verkefnalýsingu gekk þetta mjög 
 https://github.com/verdbolga/INTOPrufa.git
 
 ## 4. Uppsettur hugbúnaður
+1. GIMP
+		Licence: http://www.gimp.org/about/COPYING
+		Source code: https://git.gnome.org/browse/gimp/
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+2. Libre Office
+		Licence: http://www.libreoffice.org/download/license/
+		Source code: http://dev-www.libreoffice.org/bundles/
+
+3. Ubuntu
+		Licence: http://www.ubuntu.com/about/about-ubuntu/licensing
+		Source code: https://wiki.ubuntu.com/Kernel/SourceCode
 
 ## 5. Unnið með Git (2. hluti)
 
