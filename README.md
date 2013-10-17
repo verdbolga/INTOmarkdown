@@ -17,6 +17,7 @@ og finnst þetta algjör snilld.
 ## 3. Unnið með Git (1. hluti)
 
 Með þeim leiðbeiningum sem gefnar voru í verkefnalýsingu gekk þetta mjög vel. Líkaði ágætlega við NIM :)
+https://github.com/verdbolga/INTOPrufa.git
 
 ## 4. Uppsettur hugbúnaður
 
